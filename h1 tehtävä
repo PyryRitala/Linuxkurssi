@@ -1,0 +1,18 @@
+##Harjoitus H1  
+
+#x.) 
+  - Vapaat ohjelmistot mahdollistavat niiden vapaan jaon, käytön, kopioinnin ja parantelun.
+  -  Sana "vapaa" ei merkitse ilmaista. 
+  - "Neljää vapautta" käytetään vapaan ohjelmiston määrittelyssä. 
+  - Niihin kuuluu käyttäjien vapaus pyörittää ja halutessaan muunnella ohjelmaa vapaasti. 
+  - Avoin lähdekoodi oleellinen. 
+  - Vapauksiin kuuluu myös oikeus vapaasti jakaa ohjelmiston alkuperäis- sekä muunneltuja versioita. 
+
+
+#a.)
+  - Virtualboxin asentamisessa ilmeni aluksi ongelmia, mitkä johtuivat ilmeisesti windowsista.
+  - Ongelmat hävisivät koneen uudeelleenkäynnistyksen jälkeen. 
+  - Kun virtualbox oli onnistuneesti asennettu, tehtävä eteni ilman ongelmia. 
+  - Asensin Debianin virtuaalikoneeseen ohjeiden mukaan. 
+  - Olen jo aiemmin harjoitellut Linuxin asentamista virtuaalikoneeseen, joten prosessi oli jo tuttu. 
+ 
